@@ -5,3 +5,5 @@ python-dotenv
 pydantic
 httpx
 psycopg2-binary
+streamlit
+requests
